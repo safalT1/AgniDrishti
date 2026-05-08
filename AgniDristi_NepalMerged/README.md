@@ -183,8 +183,8 @@ latitude, longitude, temperature, humidity, wind_speed, precipitation, elevation
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/dipak-shaaki/Agni_Dristi_Nepal.git
-cd Agni_Dristi_Nepal
+git clone https://github.com/safalT1/AgniDrishti.git
+cd AgniDrishti
 ```
 
 ### 2. Backend Setup
@@ -341,13 +341,13 @@ Agni_Dristi_Nepal/
 npm run build
 # Deploy to Vercel via CLI or GitHub integration
 ```
-**Live Frontend:** https://forest-fire-prediction-otpw.vercel.app/
+**Live Frontend:** 
 
 ### Backend Deployment (Render)
 ```bash
 # Deploy via Render with environment variables configured
 ```
-**Live Backend:** https://forest-fire-prediction-kym9.onrender.com/
+**Live Backend:** 
 
 ---
 
@@ -422,13 +422,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Safal Tamang**
 - GitHub: [@SafalT1](https://github.com/SafalT1)
 
----
-
-## 💬 Support & Questions
-
-For issues, questions, or suggestions:
-- Open an [Issue](https://github.com/dipak-shaaki/Forest_Fire_Prediction/issues)
-- Contact via the application's contact form
 
 ---
 
