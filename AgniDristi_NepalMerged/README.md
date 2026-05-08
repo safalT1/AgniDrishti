@@ -442,4 +442,4 @@ For issues, questions, or suggestions:
 
 ---
 
-**Last Updated:** November 2025
+**Last Updated:** November 2026
