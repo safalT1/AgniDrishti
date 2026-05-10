@@ -1,10 +1,10 @@
-﻿﻿## Nepal Wildfire Watch 
+﻿﻿## AganiDrishti Nepal 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Node.js 14+](https://img.shields.io/badge/node.js-14+-green.svg)](https://nodejs.org/)
 
-Nepal Wildfire Watch is a **full-stack web application** with **AI/ML integration** that provides **real-time wildfire risk prediction and alerting for Nepal**. It combines satellite data, weather APIs, and custom-trained machine learning models to help prevent and monitor forest fires.
+AganiDrishti Nepal is a **full-stack web application** with **AI/ML integration** that provides **real-time wildfire risk prediction and alerting for Nepal**. It combines satellite data, weather APIs, and custom-trained machine learning models to help prevent and monitor forest fires.
 
 **Tech Stack:**  (MongoDB, React) + FastAPI (Python Backend)
 
