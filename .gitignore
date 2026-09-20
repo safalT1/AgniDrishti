@@ -1,0 +1,38 @@
+# User specific ignores
+notes.md
+feature
+config.js
+apiKey.js
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+.venv-1/
+.venv-2/
+venv/
+backend/venv/
+backend/__pycache__/
+
+# Node / Frontend
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS Metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary old directory
+AgniDristi_NepalMerged/
