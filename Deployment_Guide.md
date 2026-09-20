@@ -7,7 +7,7 @@ This guide provides a step-by-step walkthrough for deploying both the **FastAPI 
 ## 📋 Prerequisites & Accounts
 
 Before beginning, you will need:
-1. A **GitHub Repository** containing your code (already configured at `https://github.com/MirajB1/AgniDrishti`).
+1. A **GitHub Repository** containing your code (already configured at `https://github.com/SafalT1/AgniDrishti`).
 2. A **MongoDB Atlas** account (free tier works perfectly).
 3. An **OpenWeatherMap** API key (for fetching live weather details).
 4. A **NASA FIRMS** API map key (for real-time satellite fire hotspots).
@@ -36,7 +36,7 @@ Render is recommended for hosting the Python FastAPI server as it supports conti
 
 1. Log in to [Render Dashboard](https://dashboard.render.com/).
 2. Click **New +** -> **Web Service**.
-3. Select **Connect a repository** and link your GitHub repository: `MirajB1/AgniDrishti`.
+3. Select **Connect a repository** and link your GitHub repository: `SafalT1/AgniDrishti`.
 4. Configure the Web Service settings:
    - **Name**: `agnidrishti-backend`
    - **Region**: Select the region closest to Nepal (e.g., Singapore).
@@ -69,7 +69,7 @@ Vercel is optimized for building and serving Vite-based React static frontends.
 
 1. Log in to [Vercel](https://vercel.com/).
 2. Click **Add New** -> **Project**.
-3. Select your linked GitHub repository: `MirajB1/AgniDrishti` and click **Import**.
+3. Select your linked GitHub repository: `SafalT1/AgniDrishti` and click **Import**.
 4. Configure the Project settings:
    - **Project Name**: `agnidrishti`
    - **Framework Preset**: `Vite`

@@ -149,7 +149,7 @@ latitude, longitude, temperature, humidity, wind_speed, precipitation, elevation
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/MirajB1/AgniDrishti.git
+git clone https://github.com/SafalT1/AgniDrishti.git
 cd AgniDrishti
 ```
 
@@ -336,9 +336,6 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Authors
 
-**Miraj Bhattarai**
-- GitHub: [@MirajB1](https://github.com/MirajB1)
-
 **Safal Tamang**
 - GitHub: [@SafalT1](https://github.com/SafalT1)
 
@@ -347,7 +344,7 @@ This project is licensed under the **MIT License**.
 ## 💬 Support & Questions
 
 For issues, bugs, or feature suggestions:
-- Open a GitHub [Issue](https://github.com/MirajB1/AgniDrishti/issues)
+- Open a GitHub [Issue](https://github.com/SafalT1/AgniDrishti/issues)
 - Contact us via the in-app contact form.
 
 ---
